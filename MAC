@@ -112,3 +112,105 @@ http://filex.tv:8080/live/sheroz2/000913/276655.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
 #EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
 #EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+//ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-jalsha.jpg",Star Jalsha
+https://ccntv.anytv.live/starjalsha/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sony-pal.jfif",Sony Pal
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sony-sab.jfif",Sony Sab
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/bollywood-tv.png",Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sony-aath-b3oyaq7jzdjt.jpeg",Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_dvr.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/akash-aath.jpeg",Akash Aath
+https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/tv-hd.png",&TV 
+https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-tv-hd.jpg",ZEE TV HD
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-world.webp",ZEE WORLD
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-bollywood.png",ZEE BOLLYWOOD
+https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zing.jpg",ZING
+https://z5amshls.akamaized.net/zing/tracks-v2a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/romedy-now.png",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/boogle-bollywood.jfif",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/dd-national.jpg",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/fashion-tv.jpg",Fashion TV
+https://fash1.erosnow.com/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_s_189_hls.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zoom.jpg",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sanget-bangla.jpeg",Sanget Bangla
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-smile.jfif",ZEE SMILE
+https://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/mastiii.jpg",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/cnbc-tv18.jfif",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/times-now.jfif",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/news18-india.jfif",NEWS18 INDIA
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1603255141~acl=%2f*~data=hdntl~hmac=8abf210be799424f5f7fa9e16736ba082d7b3365f5d7cfc665f19965979a4
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/news18-bangla.jpg",News18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1603254988~acl=%2f*~data=hdntl~hmac=1f9648f207d9204096d0c17985ca9b9f967b9b61edb4bea9e65a16f6c9c363fb
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/abp-ananda-bangla.jpg",ABP Ananda Bangla
+https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
+#EXTM3U
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-jalsha-movies.png",Star Jalsha Movies
+https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/prive-hd.jpg",& Privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-gold-n9j7twcdggkv.jpg",Star Gold
+http://mytv.fun:8080/live/uve5jiq1sy/jzqt245i5l/3983.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-gol.jpg",Star Gold HD
+http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sony-max-2.jpg",Sony Max 2
+https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8?HjFreeTV=MAX2
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp",HBO
+https://ccntv.anytv.live/hbo/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-bangla-cinema.jpg",zee bangla cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v3a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/maha-movie.png",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/set-max.jfif",Sony Max
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/movies-now.jpeg",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/bollywood-classic.jpeg",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/khushboo-bangla.jpeg",Khushboo Bangla
+https://m-c07-j2apps.s.llnwi.net/hls/1328.KhushbooBangla.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/orange-bangla.jpeg",Orange Bangla
+https://m-c18-j2apps.s.llnwi.net/hls/7042.OrangeBangla.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-cinema-hd.png",ZEE CINEMA HD
+https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-anmol-cinema.png",ZEE ANMOL CINEMA
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/zee-action.png",ZEE ACTION
+https://z5amshls.akamaized.net/action/tracks-v2a1/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/nick.png",Nick
+https://ccntv.anytv.live/nick/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/sony-yay.jpg",Sony Yay
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/discovery-kids.png",Discovery Kids
+https://wxca.cf/j/Discovery_Kids_2/master.m3u8?signature=32844c3c5d63ab33efe846f47fd3bfc2832e8c09&unique=d40b3d9368c4c621edec7501345e6e5d
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/midnight-secrets.jpg",Midnight Secrets
+https://fash1.erosnow.com/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/dabangg.jpg",Dabangg
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/music-india.jpg",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-utsav.jpg",STAR UTSAV
+http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/star-bharat-hd.jpg",STAR BHARAT HD
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/colors-hd.jpg",colors Hd
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/starplus.jpg",StarPlus
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
