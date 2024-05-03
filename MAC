@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="Series" ,1
 http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="Movies" ,jjj
 http://195.26.87.217/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,2
 http://195.26.87.217/live.ts?channelId=118&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,3
 http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,4
 http://195.26.87.217/live.ts?channelId=120&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,5
 http://195.26.87.217/live.ts?channelId=121&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,6
 http://195.26.87.217/live.ts?channelId=122&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,7
 http://195.26.87.217/live.ts?channelId=123&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,8
 http://195.26.87.217/live.ts?channelId=124&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,9
 http://195.26.87.217/live.ts?channelId=125&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,10
 http://195.26.87.217/live.ts?channelId=126&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN" tvg-link="" tvg-logo="" group-title="INDIAN" ,
 http://195.26.87.217/live.ts?channelId=127&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -214,3 +214,5 @@ http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 #EXTINF:1 tvg-logo="http://fuzia.ml/lof/uploads/tv_image/starplus.jpg",StarPlus
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+#EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
